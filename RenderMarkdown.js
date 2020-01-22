@@ -6,5 +6,4 @@ document.getElementById("renderbutton").addEventListener("click", function(){
 function render() {
     var userText = document.getElementById("textarea").value
     document.getElementById("render").innerHTML = marked(userText);
-
 }
