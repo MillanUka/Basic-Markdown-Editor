@@ -1,5 +1,5 @@
 # Basic-Markdown-Editor
-A basic web-based markdown editor
+A basic web-based Markdown editor. 
 
 ## Technologies used
-- <a href="https://marked.js.org/#/README.md#README.md">Marked.js</a> - A markedown parser and compiler
+- <a href="https://marked.js.org/#/README.md#README.md">Marked.js</a> - A Markdown parser and compiler
